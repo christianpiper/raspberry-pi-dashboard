@@ -1,4 +1,4 @@
-raspberry-pi-dashboard
+Raspberry Pi Dashboard
 ======================
 
 Small app to output system stats to an ili 3941 LCD display.
